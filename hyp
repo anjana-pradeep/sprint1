@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>www.relative link.com</title>
+</head>
+<body bgcolor="pink">
+<a href="second.html">GO TO SECOND HTML PAGE</a>
+</body>
+</html>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>absolute link</title>
+</head>
+<body bgcolor="SKY BLUE">
+<a href="file:///G:/assignment/first.html">GO BACK TO FIRST HTML PAGE</a>
+
+</body>
+</html>
